@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c6e323d-4d85-48ab-9a2e-8a7ef2f524f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cjNT7w6hgL1Jxu2kUrB7TC9bRp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CircularLists" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.unaula.Main" />
+      <module name="final_data_structure" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c6e323d-4d85-48ab-9a2e-8a7ef2f524f6" name="Default Changelist" comment="" />
+      <created>1591038048595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591038048595</updated>
+      <workItem from="1591038054417" duration="606000" />
+      <workItem from="1591221004087" duration="9669000" />
+      <workItem from="1591248026485" duration="5590000" />
+      <workItem from="1591298985319" duration="13640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591267355719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591267355719" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1591314504586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591314504586" />
+    <state width="1323" height="392" key="GridCell.Tab.0.bottom" timestamp="1591315360996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="392" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591315360996" />
+    <state width="1323" height="392" key="GridCell.Tab.0.center" timestamp="1591315360995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="392" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591315360995" />
+    <state width="1323" height="392" key="GridCell.Tab.0.left" timestamp="1591315360995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="392" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591315360995" />
+    <state width="1323" height="392" key="GridCell.Tab.0.right" timestamp="1591315360996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="392" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591315360996" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1591042224699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591042224699" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591221021531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591221021531" />
+    <state x="65" y="0" key="new project wizard" timestamp="1591245880888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591245880888" />
+    <state x="530" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1591300362720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="530" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591300362720" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591307978031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1591307978031" />
+  </component>
+</project>
